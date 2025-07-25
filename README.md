@@ -17,15 +17,12 @@ Always curious. Always improving.
 
 ## 🛠️ My Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" height="40" alt="Google Sheets" />
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="Tableau" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Microsoft_Power_BI_Logo.svg/512px-Microsoft_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Looker-icon.svg/1024px-Looker-icon.svg.png" height="40" alt="Looker Studio" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
