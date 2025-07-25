@@ -15,5 +15,17 @@ Always curious. Always improving.
 
 ### Tech Stack
 
+## 🛠️ My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,sqlite,tableau,powerbi,anaconda,jupyter,github,gdocs)](https://skillicons.dev)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" height="40" alt="Google Sheets" />
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Microsoft_Power_BI_Logo.svg/512px-Microsoft_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Looker-icon.svg/1024px-Looker-icon.svg.png" height="40" alt="Looker Studio" />
+</p>
+
